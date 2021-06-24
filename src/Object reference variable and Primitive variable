@@ -1,0 +1,9 @@
+Object reference variable :
+
+  It holds the address of the object , which is present inside the heap memory.
+  ex. Box mybox = new Box();
+
+Primitive variable :
+
+  It holds the actual value
+  ex. int i = 9 ;
