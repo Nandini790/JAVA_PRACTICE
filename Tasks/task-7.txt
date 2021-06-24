@@ -1,0 +1,4 @@
+JEE basics
+JEE 2-tier, 3-tier, n-tier architecture
+JEE application components-EJB, Servlets & JSP
+JEE runtime environment-Web Server and Application Server
