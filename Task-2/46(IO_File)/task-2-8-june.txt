@@ -1,0 +1,19 @@
+1."Java I/O Fundamentals
+
+2.Read and write data from the console
+
+3.Use BufferedReader, BufferedWriter, File, FileReader, FileWriter, FileInputStream, FileOutputStream, ObjectOutputStream, ObjectInputStream, and PrintWriter in the java.io package.
+
+4.Java File I/O (NIO.2)
+
+5.Use Path interface to operate on file and directory paths
+
+6.Use Files class to check, read, delete, copy, move, manage metadata of a file or directory
+
+7.""Building Database Applications with JDBC
+
+8.Describe the interfaces that make up the core of the JDBC API including the Driver, Connection, Statement, and ResultSet interfaces and their relationship to provider implementations
+
+9.Identify the components required to connect to a database using the DriverManager class including the JDBC URL
+
+10.Submit queries and read results from the database including creating statements, returning result sets, iterating through the results, and properly closing result sets, statements, and connections"""
