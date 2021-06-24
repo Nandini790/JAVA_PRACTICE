@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+ xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+  id="WebApp_ID" version="4.0">
+  
+  <display-name>ServletConfig</display-name>
+  
+  <welcome-file-list>
+    <welcome-file>Actionservlet</welcome-file>
+  </welcome-file-list>
+  
+  <servlet>
+  
+  <servlet-name>mypack.Actionservlet</servlet-name>
+  <servlet-class>mypack.Actionservlet</servlet-class>
+  <init-param>
+  <param-name>mywebsite</param-name>
+  <param-value>nandini.com</param-value>
+  </init-param>
+  
+    </servlet>
+    
+  <servlet-mapping>
+  
+  <servlet-name>mypack.Actionservlet</servlet-name>
+  <url-pattern>/Actionservlet</url-pattern>
+  
+  </servlet-mapping>
+  
+ 
+</web-app>
